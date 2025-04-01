@@ -1,4 +1,4 @@
-const apiKey = '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'; // Remplacez par votre clé API
+const apiKey = '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'; // Remplacez par votre clé API
 
 async function sendMessage() {
   const userInput = document.getElementById('userInput').value;
