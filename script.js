@@ -1,4 +1,4 @@
-const apiKey = ''; // Remplacez par votre clé API
+const apiKey = 'VOTRE_CLÉ_API_OPENAI'; // Remplacez par votre clé API
 
 async function sendMessage() {
   const userInput = document.getElementById('userInput').value;

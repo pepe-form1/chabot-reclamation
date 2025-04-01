@@ -4,10 +4,11 @@ body {
 }
 
 .chat-container {
-  width: 400px;
+  width: 500px;
   margin: 50px auto;
   padding: 20px;
   background-color: #fff;
+  background-image: url('path/6029655.jpg');
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
