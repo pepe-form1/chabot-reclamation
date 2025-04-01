@@ -1,4 +1,4 @@
-const apiKey = 'VOTRE_CLÉ_API_OPENAI'; // Remplacez par votre clé API
+const apiKey = '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'; // Remplacez par votre clé API
 
 async function sendMessage() {
   const userInput = document.getElementById('userInput').value;
